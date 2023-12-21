@@ -45,4 +45,5 @@ public class GameMenu : MonoBehaviour
     {
         SceneManager.LoadScene(0);
     }
+    //Комментарий сделан для лабораторной работы по гиту. Типо исправлено обучение
 }
